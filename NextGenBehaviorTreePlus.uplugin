@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NextGenBehaviorTreePlus",
+	"Description": "Develop some powerful and useful composite nodes, decorator nodes and task nodes to extend the ability of Behavior Tree.",
+	"Category": "NextGen",
+	"CreatedBy": "trav",
+	"CreatedByURL": "https://github.com/travmygit",
+	"DocsURL": "https://github.com/travmygit/NextGenBehaviorTreePlus",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/travmygit/NextGenBehaviorTreePlus",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NextGenBehaviorTreePlus",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
