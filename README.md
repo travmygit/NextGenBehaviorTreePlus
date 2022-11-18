@@ -10,3 +10,11 @@ UE5! Develop some powerful and useful composite nodes, decorator nodes and task 
 | Node Name             | The name the node should display in the Behavior Tree graph.                                                                                 |
 | Weights               | Weights of children when the node is using weight random algorithm.                                                                          |
 | bUseWeights           | The node will ues weight random algorithm to select from its children (by default, each of the children has the same possibility).           |
+
+## New Tasks
+### Blackboard (Set Value)
+**Blackboard** Nodes set blackboard key value by its type.
+| Property       | Description                               |
+|----------------|-------------------------------------------|
+| Blackboard Key | The Blackboard Key the Task will work on. |
+| Key Value      | The value to be set to the key.           |
